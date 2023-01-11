@@ -1,7 +1,6 @@
 <h3>Hello, I am Masum Billah  :wave:</h3> 
 <h3>I am a web-developer and Problem solver. Currently learning and working with <i>python</i> and c++.</h3>
-<br/>
-<br/>
+<div style="background:black;height:2px;"></div>
 
 ![](https://raw.githubusercontent.com/masummim50/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/masummim50/cf-stats/main/output/light_card.svg)
