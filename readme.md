@@ -22,4 +22,4 @@
 
 <br />
 <br />
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/masummim50/langs)](https://githubtrends.io)
+[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/masummim50/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/masummim50/langs?time_range=one_year&compact=True&theme=bright_lights)
