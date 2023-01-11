@@ -8,6 +8,12 @@
 ![](https://raw.githubusercontent.com/masummim50/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/masummim50/cf-stats/main/output/rating.svg)
 
+[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
+
+<a href="https://web.facebook.com/profile.php?id=100007803152762" target="_blank">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>
+</a>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
